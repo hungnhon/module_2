@@ -38,6 +38,8 @@ public class XoaPhanTuKhoiMang {
         n = xoaphantu(arr,n,x);
         System.out.println("mảng sau khi xóa");
         inmang(arr,n);
+
+        //jjjjj
     }
 
 }
