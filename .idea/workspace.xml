@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d02b7e7-77cb-4ef8-ac99-5be3c7c1bca7" name="Changes" comment="add array exercises">
-      <change afterPath="$PROJECT_DIR$/src/bai_tap/ss3/mangvaham/GopMang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +84,7 @@
       <workItem from="1765788230342" duration="4793000" />
       <workItem from="1765794194360" duration="817000" />
       <workItem from="1765803766553" duration="3075000" />
-      <workItem from="1765895924789" duration="3691000" />
+      <workItem from="1765895924789" duration="4819000" />
     </task>
     <task id="LOCAL-00001" summary="add array exercises">
       <option name="closed" value="true" />
