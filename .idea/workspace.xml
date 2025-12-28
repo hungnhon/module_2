@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d02b7e7-77cb-4ef8-ac99-5be3c7c1bca7" name="Changes" comment="add array exercises">
+      <change afterPath="$PROJECT_DIR$/src/ss6_Point2D_Point3D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_Point2D_Point3D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_Point2D_Point3D/TestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss6_ke_thua/TestCylinder.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="36pxzJ6lyq8VlT0bJBJ5sOREX0l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GopMang.executor": "Run",
+    "Application.StopWatch.executor": "Run",
+    "Application.TestCircle.executor": "Run",
+    "Application.TestCylinder.executor": "Run",
+    "Application.TestPoint.executor": "Run",
+    "Application.TestStudent.executor": "Run",
+    "Application.ThemPhanTuVaoMang.executor": "Run",
+    "Application.XayDungLopFan.executor": "Run",
+    "Application.XayDungLopQuadraticEquation.executor": "Run",
+    "Application.XoaPhanTuKhoiMang.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projects/java_module2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TestPoint">
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.TestCircle" />
+      <module name="java_module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_ke_thua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_ke_thua.TestCylinder" />
+      <module name="java_module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_ke_thua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss6_Point2D_Point3D.TestPoint" />
+      <module name="java_module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss6_Point2D_Point3D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPoint" />
+        <item itemvalue="Application.TestCylinder" />
+        <item itemvalue="Application.TestCircle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d02b7e7-77cb-4ef8-ac99-5be3c7c1bca7" name="Changes" comment="" />
+      <created>1765717574669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765717574669</updated>
+      <workItem from="1765717577804" duration="11219000" />
+      <workItem from="1765730076707" duration="506000" />
+      <workItem from="1765730633894" duration="1230000" />
+      <workItem from="1765731916398" duration="48000" />
+      <workItem from="1765732028399" duration="513000" />
+      <workItem from="1765733941061" duration="27000" />
+      <workItem from="1765787220324" duration="794000" />
+      <workItem from="1765788085325" duration="21000" />
+      <workItem from="1765788230342" duration="4793000" />
+      <workItem from="1765794194360" duration="817000" />
+      <workItem from="1765803766553" duration="3075000" />
+      <workItem from="1765895924789" duration="7212000" />
+      <workItem from="1765961225572" duration="5953000" />
+      <workItem from="1766149822258" duration="3014000" />
+      <workItem from="1766158673124" duration="856000" />
+      <workItem from="1766161659257" duration="2000" />
+      <workItem from="1766161764562" duration="1000" />
+      <workItem from="1766162144050" duration="1598000" />
+      <workItem from="1766164309632" duration="126000" />
+      <workItem from="1766164471917" duration="20000" />
+      <workItem from="1766235102022" duration="680000" />
+      <workItem from="1766895999405" duration="21694000" />
+    </task>
+    <task id="LOCAL-00001" summary="add array exercises">
+      <option name="closed" value="true" />
+      <created>1765792918073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765792918073</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add array exercises">
+      <option name="closed" value="true" />
+      <created>1765804927903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765804927903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add array exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="add array exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ss6_Point2D_Point3D/Point2D.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
